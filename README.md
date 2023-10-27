@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/JosephLord215/Frontend-Mentor-Order-summary-component)
+- Live Site URL: [Here](https://josephlord215.github.io/Frontend-Mentor-Order-summary-component/)
 
 ## My process
 
